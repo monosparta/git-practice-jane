@@ -1,0 +1,25 @@
+# 目錄
+- 基本介紹 GIT 簡略歷史、使用緣由、何為版本控制
+  - Git簡略歷史&使用緣由
+  - 何為版本控制
+- 版本控制的邏輯說明
+  - 版本控制種類
+  - Git工作流程介紹
+    - 正向流程(儲存到repository中)
+    - 逆向流程(從repository中取回最新資料)
+- Git 常用指令集介紹
+- .gitignore 配置
+  - gitignore文件
+    - 使用時機
+    - gitignore規則語法
+    - gitignore規則的優先級(由高到低排序)
+- 分支的使用方法
+- Commit 介紹及使用
+- GitHub 使用方法：push, pull 實作
+  - Git Push
+    - 實作
+    - ```Git Push```常見用法
+  - Git Pull
+    - 實作
+    - ```Git Pull```常見用法
+- GitFlow 介紹
